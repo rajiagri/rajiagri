@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raji
+- 👋 Hi, I’m Raji @rajiagri
 - 👀 I’m interested in agrometeorology
 - 🌱 I’m currently learning crop simulation model
 
